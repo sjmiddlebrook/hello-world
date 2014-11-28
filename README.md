@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First repository
+Updating the readme file. Learning how to use GitHub
